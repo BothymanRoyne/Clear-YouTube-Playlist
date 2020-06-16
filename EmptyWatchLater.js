@@ -7,9 +7,10 @@ function removeVideo()
     if (video)
     {
         video.click();
-        setTimeout(function() {
+        setTimeout(function() 
+        {
             qs('iron-dropdown span')[0].click();            
-            if(getVideo())
+            if (getVideo())
             {
                 setTimeout(removeVideo, 100);
             }        
