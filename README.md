@@ -1,4 +1,4 @@
-This script was written to empty my Watch Later playlist on YouTube, as it had exceeded over 1000 videos.
+This script was written to empty my Watch Later playlist on YouTube, which had grown to >1000 videos.
 
 It requires the new layout to work. It also has the capability to clear other playlists.  
 
