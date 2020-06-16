@@ -1,12 +1,10 @@
-//delete all videos from watch later list
-//working version
 var qs = $$;
 var getVideo = () => qs('.ytd-playlist-video-list-renderer button')[0];
 
 function removeVideo()
 {
     var video = getVideo();
-    if(video)
+    if (video)
     {
         video.click();
         setTimeout(function() {
