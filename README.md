@@ -1,6 +1,6 @@
 This script was written to empty my Watch Later playlist on YouTube, which had grown to >1000 videos.
 
-It requires the new layout to work. It also has the capability to clear other playlists.  
+It requires the new layout to work. While I used it for the Watch Later playlist, it does have the capability to clear other playlists.  
 
 Instructions:  
 1. login to your YouTube account.  
